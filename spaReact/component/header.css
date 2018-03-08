@@ -1,0 +1,14 @@
+#container{
+    width: 100%;
+    background-color: cadetblue;
+    
+}
+#container ul{
+    margin: 0px;
+    list-style: none;
+    margin-left: 20px;
+}
+#container ul li{
+    display:inline-block;
+    margin-left: 10px;
+}
